@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "129561873722",
+    "firebase_url": "https://barbozza-77644.firebaseio.com",
+    "project_id": "barbozza-77644",
+    "storage_bucket": "barbozza-77644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129561873722:android:4e4fc3d9e22de709135403",
+        "android_client_info": {
+          "package_name": "com.example.barbozza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129561873722-4vn6b1nsrt8nn0695rl7gc2gl07tcs53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barbozza",
+            "certificate_hash": "ecfa1de3817ceb9f29da7a05000327689b20aa32"
+          }
+        },
+        {
+          "client_id": "129561873722-lvskmr808a01rn155csghgnop2u0j74l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs6LE4iWTADpL4MOfytyHA-pTD1MhiH3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129561873722-lvskmr808a01rn155csghgnop2u0j74l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

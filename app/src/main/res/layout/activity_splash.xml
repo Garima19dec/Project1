@@ -1,0 +1,57 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:weightSum="4"
+    android:background="#191919"
+    android:layout_gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:id="@+id/img1"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginTop="220dp"
+        android:layout_weight="1"
+        android:src="@drawable/logo" />
+
+
+
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:gravity="center"
+        android:text="Being a barber is about taking care of the people."
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textColor="#FE9900"
+        android:layout_marginTop="20dp"
+        android:text="Barboza..!!"/>
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:gravity="center"-->
+<!--        android:textSize="25dp"-->
+<!--        android:textColor="#FE9900"-->
+<!--        android:text="Aparna Kesarwani"/>-->
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:gravity="center"-->
+<!--        android:textSize="25dp"-->
+<!--        android:textColor="#FE9900"-->
+<!--        android:text="Abhinav Agarwal"/>-->
+
+</LinearLayout>
